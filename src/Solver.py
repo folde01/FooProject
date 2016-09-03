@@ -20,3 +20,5 @@ class Solver:
 
 
 Solver().demo()
+
+print "hello"
